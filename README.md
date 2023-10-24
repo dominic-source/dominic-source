@@ -5,7 +5,7 @@ I'm a passionate software engineer with a strong foundation in web development a
 ## Skills
 
 ### Programming Languages and Frameworks
-- JavaScript (Node.js/Express.js)
+- JavaScript (Node.js/Express.js/Typescript)
 - Python (Flask/Django)
 - React.js/Next.js with Material UI
 - C Programming
@@ -17,7 +17,7 @@ I'm a passionate software engineer with a strong foundation in web development a
 - RESTful API design and implementation
 
 ### Databases
-- SQL
+- SQL (MySQL)
 - SQLAlchemy
 - MongoDB
 
