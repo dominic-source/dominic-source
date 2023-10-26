@@ -15,6 +15,7 @@ I'm a passionate software engineer with a strong foundation in web development a
 - Git (Version Control)
 - Docker (Containerization)
 - RESTful API design and implementation
+- Unittest Testing
 
 ### Databases
 - SQL (MySQL)
