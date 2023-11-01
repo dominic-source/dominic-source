@@ -5,11 +5,13 @@ I'm a passionate software engineer with a strong foundation in web development a
 ## Skills
 
 ### Programming Languages and Frameworks
-- JavaScript (Node.js/Express.js/Typescript)
+- JavaScript (Node.js/Express.js/JQuery/AJAX)
+- TypeScript
 - Python (Flask/Django)
 - React.js/Next.js with Material UI
 - C Programming
 - HTML5/CSS3/SCSS
+- Bash script
 
 ### Web Technologies
 - Git (Version Control)
