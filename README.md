@@ -19,6 +19,12 @@ I'm a passionate software engineer with a strong foundation in web development a
 - RESTful API design and implementation
 - Unittest Testing
 
+### Web architechtures
+- Haproxy(load balancer)
+- Datadog(monitor)
+- Nginx
+- SSL
+
 ### Databases
 - SQL (MySQL)
 - SQLAlchemy
