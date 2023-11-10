@@ -58,6 +58,6 @@ I've had the privilege to work on several projects that have allowed me to apply
 
 ## How to Reach Me
 
-If you're interested in collaborating on exciting projects or discussing job opportunities, feel free to reach out via [email](mailto:chinonsodomnic.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/chinonsomorba).
+If you're interested in collaborating on exciting projects or discussing job opportunities, feel free to reach out via [email](mailto:chinonsodomnic@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/chinonsomorba).
 
 I'm eager to contribute my skills and passion to innovative software engineering projects. Let's build something amazing together!
