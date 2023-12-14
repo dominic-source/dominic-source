@@ -2,6 +2,13 @@
 
 I'm a passionate software engineer with a strong foundation in web development and a burning desire to excel in the field. Currently, I'm a software engineering student at the renowned ALX Holberton Software Engineering Program, where I'm continuously expanding my knowledge and honing my skills.
 
+## Projects
+
+I've had the privilege to work on several projects that have allowed me to apply my skills and demonstrate my problem-solving abilities. Some notable ones include:
+- [ProvisonsPall](https://www.cadaservices.tech/market):
+  A business Application to help business owners connect to their clients and vice versa. It was built on Jquery, Javascript, CSS, HTML, Python, Flask, and SQLAlchemy. And I deployed it myself on these architectures: Nginx, Haproxy (load balancer), and a live server. I collaborated with two other persons on this project and I was the major contributor as I built the API endpoints, and Web routes, designed the dashboard using Jquery, HTML, and CSS, integrated Google map API, contributed to code reviews, and connected the application.
+- [Static web application](https://cadatech-portfolio.vercel.app/): A web application developed using Next.js, Javascript, and Node.js, demonstrating my proficiency in frontend technology design.
+
 ## Skills
 
 ### Programming Languages and Frameworks
@@ -50,11 +57,6 @@ I'm a passionate software engineer with a strong foundation in web development a
 - count sort
 - Binary sort
 - Shell sort
-
-## Projects
-
-I've had the privilege to work on several projects that have allowed me to apply my skills and demonstrate my problem-solving abilities. Some notable ones include:
-- [Project 1](https://cadatech-portfolio.vercel.app/): A web application developed using React.js, Javascript, and Node.js, demonstrating my proficiency in frontend technology design.
 
 ## How to Reach Me
 
