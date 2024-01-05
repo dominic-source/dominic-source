@@ -8,6 +8,9 @@ I've had the privilege to work on several projects that have allowed me to apply
 - [ProvisonsPall](https://provisionspall.onrender.com/market):
   A business Application to help business owners connect to their clients and vice versa. It was built on Jquery, Javascript, CSS, HTML, Python, Flask, and SQLAlchemy. And I deployed it myself on these architectures: Nginx, Haproxy (load balancer), and a live server. I collaborated with two other persons on this project and I was the major contributor as I built the API endpoints, and Web routes, designed the dashboard using Jquery, HTML, and CSS, integrated Google map API, contributed to code reviews, and connected the application.
   [link to source code](https://github.com/dominic-source/ProvisionsPall/tree/master)
+- [ProvisionsPall API Service](https://api-services-swfd.onrender.com/api/v1/stores):
+  This is the API service for the ProvisionsPall application, please check out the documentation on the readme file.
+  [link to source code](https://github.com/dominic-source/ProvisionsPall/tree/master)
 - [Static web application](https://cadatech-portfolio.vercel.app/): A web application I developed using Next.js, Javascript, and Node.js, demonstrating my proficiency in frontend technology design. [Here is a link to the source code](https://github.com/dominic-source/Cadatech_Portfolio)
 
 ## Skills
