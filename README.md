@@ -3,7 +3,9 @@
 I'm a passionate software engineer with a strong foundation in web development and a burning desire to excel in the field. Currently, I'm a software engineering student at the renowned ALX Holberton Software Engineering Program, where I'm continuously expanding my knowledge and honing my skills.
 
 **OPEN SOURCE CONTRIBUTION**
-<div style="border: 3px solid red; width: 50px; height: 50px; border-radius: 50%; padding: 20px;">45</div>
+> [!TIP]
+> Total number of contributions `#0969DA` **1**
+
 ## Projects
 
 I've had the privilege to work on several projects that have allowed me to apply my skills and demonstrate my problem-solving abilities. Some notable ones include:
