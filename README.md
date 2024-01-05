@@ -2,10 +2,6 @@
 
 I'm a passionate software engineer with a strong foundation in web development and a burning desire to excel in the field. Currently, I'm a software engineering student at the renowned ALX Holberton Software Engineering Program, where I'm continuously expanding my knowledge and honing my skills.
 
-**OPEN SOURCE CONTRIBUTION**
-> [!IMPORTANT]
-> Total number of contributions **1**
-
 ## Projects
 
 I've had the privilege to work on several projects that have allowed me to apply my skills and demonstrate my problem-solving abilities. Some notable ones include:
@@ -16,6 +12,10 @@ I've had the privilege to work on several projects that have allowed me to apply
   This is the API service for the ProvisionsPall application, please check out the documentation on the readme file.
   [link to source code](https://github.com/dominic-source/ProvisionsPall/tree/master)
 - [Static web application](https://cadatech-portfolio.vercel.app/): A web application I developed using Next.js, Javascript, and Node.js, demonstrating my proficiency in frontend technology design. [Here is a link to the source code](https://github.com/dominic-source/Cadatech_Portfolio)
+
+**OPEN SOURCE CONTRIBUTION**
+> [!IMPORTANT]
+> Total number of contributions **1**
 
 ## Skills
 
