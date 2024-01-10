@@ -15,7 +15,8 @@ I've had the privilege to work on several projects that have allowed me to apply
 
 **OPEN SOURCE CONTRIBUTION**
 > [!IMPORTANT]
-> Total number of contributions **1**
+> Total number of merged PR in open source projects **1**
+> Total number of open source project contributed to **1**
 
 ## Skills
 
