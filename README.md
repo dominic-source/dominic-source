@@ -23,7 +23,7 @@ I've had the privilege to work on several projects that have allowed me to apply
 ### Programming Languages and Frameworks
 - JavaScript (Node.js/Express.js/JQuery/AJAX)
 - TypeScript
-- Python (Flask/Django)
+- Python/Flask
 - React.js/Next.js with Material UI
 - HTML5/CSS3/SCSS
 - Bash script
@@ -32,7 +32,12 @@ I've had the privilege to work on several projects that have allowed me to apply
 - Git (Version Control)
 - Docker (Containerization)
 - RESTful API design and implementation
+
+### Testing Technologies 
 - Unittest Testing
+- mocha
+- sinon
+- chai
 
 ### Web architechtures
 - Haproxy(load balancer)
@@ -44,6 +49,7 @@ I've had the privilege to work on several projects that have allowed me to apply
 - SQL (MySQL)
 - SQLAlchemy
 - MongoDB
+- Redis
 
 ### Data Structures
 - Binary Trees
