@@ -5,6 +5,7 @@ I'm a passionate software engineer with a strong foundation in web development a
 ## Projects
 
 I've had the privilege to work on several projects that have allowed me to apply my skills and demonstrate my problem-solving abilities. Some notable ones include:
+- Handshake is a dynamic and versatile web-based application poised to redefine the job search and classified ad experience. Built with React+vite, Javascript, Python, Flask and sqlAlchemy. Here is a link to the [source code](https://github.com/HandshakeOrg/handshake)
 - [ProvisonsPall](https://provisionspall-hwvs.onrender.com/market):
   A business Application to help business owners connect to their clients and vice versa. It was built on Jquery, Javascript, CSS, HTML, Python, Flask, and SQLAlchemy. And I deployed it myself on these architectures: Nginx, Haproxy (load balancer), and a live server. I collaborated with two other persons on this project and I was the major contributor as I built the API endpoints, and Web routes, designed the dashboard using Jquery, HTML, and CSS, integrated Google map API, contributed to code reviews, and connected the application.
   [link to source code](https://github.com/dominic-source/ProvisionsPall/tree/master)
@@ -15,8 +16,9 @@ I've had the privilege to work on several projects that have allowed me to apply
 
 **OPEN SOURCE CONTRIBUTION**
 > [!IMPORTANT]
-> Total number of merged PR in open source projects **1**
-> Total number of open source project contributed to **1**
+> Total number of merged pull requests **15**
+> Total number of pull requests merged by me **10**
+> Total number of open source projects contributed to **1**
 
 ## Skills
 
