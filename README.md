@@ -40,11 +40,6 @@ I'm a passionate software engineer and DevOps enthusiast with a strong foundatio
 🔄 A program showcasing the implementation of various sorting algorithms and their time complexities.
 [Source Code](https://github.com/dominic-source/sorting_algorithms)
 
-## 🔥 Open Source Contribution
-- **Total number of merged pull requests:** 15
-- **Total number of pull requests merged by me:** 10
-- **Total number of open source projects contributed to:** 1
-
 ## ⚡ Skills
 
 ### Programming Languages and Frameworks
