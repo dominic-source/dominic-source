@@ -1,66 +1,85 @@
-# Hi, I'm Chinonso Morba
+# Hi, I'm Chinonso Morba 👋
 
-I'm a passionate software engineer with a strong foundation in web development and a burning desire to excel in the field. Currently, I'm a software engineering student at the renowned ALX Holberton Software Engineering Program, where I'm continuously expanding my knowledge and honing my skills.
+I'm a passionate software engineer and DevOps enthusiast with a strong foundation in web development. I am constantly expanding my knowledge and honing my skills. I've completed the ALX Holberton Software Engineering Program and participated in the HNG DevOps internship.
 
-## Projects
+![Profile Views](https://komarev.com/ghpvc/?username=dominic-source&color=blue)
 
-I've had the privilege to work on several projects that have allowed me to apply my skills and demonstrate my problem-solving abilities. Some notable ones include:
+## 🛠️ Projects
 
-- Project Delivery-App2 is a backend and frontend project built with Node/Express and MongoDB. This app connects buyers, sellers and dispatchers in a single ecosystem of interconnected users providing a wide range of opportunities for her users. Checkout the project [here](https://github.com/dominic-source/Home_Deliverer/tree/master/express_server)
-- Project Delivery-App1 is a backend project built with Python/flask and MySQL. This app connects buyers, sellers and dispatchers in a single ecosystem of interconnected users providing a wide range of opportunities for her users. Check out the project [here](https://github.com/dominic-source/Home_Deliverer/tree/master/flask_server)
-- Cats n' Cheese is a single-player game where players act as mice stealing cheese from cats, it's all about strategy and fun! Built with React and Nextjs.
-  You can check the game [here](https://cats-n-cheese.vercel.app)
-- Handshake is a dynamic and versatile web-based application poised to redefine the job search and classified ad experience. Built with React+vite, Javascript, Python, Flask and sqlAlchemy. Here is a link to the [source code](https://github.com/HandshakeOrg/handshake)
-- [ProvisonsPall](https://provisionspall-hwvs.onrender.com/market):
-  A business Application to help business owners connect to their clients and vice versa. It was built on Jquery, Javascript, CSS, HTML, Python, Flask, and SQLAlchemy. And I deployed it myself on these architectures: Nginx, Haproxy (load balancer), and a live server. I collaborated with two others on this project and was the major contributor. I built the API endpoints, and Web routes, designed the dashboard using Jquery, HTML, and CSS, integrated Google map API, contributed to code reviews, and connected the application.
-  [link to source code](https://github.com/dominic-source/ProvisionsPall/tree/master)
-- [ProvisionsPall API Service](https://provisionspall-hwvs.onrender.com/api/v1/stores):
-  This is the API service for the ProvisionsPall application, please check out the documentation on the readme file.
-  [link to source code](https://github.com/dominic-source/ProvisionsPall/tree/master)
-- [Static web application](https://cadatech-portfolio.vercel.app/): A web application I developed using Next.js, Javascript, and Node.js, demonstrating my proficiency in frontend technology design. [Here is a link to the source code](https://github.com/dominic-source/Cadatech_Portfolio)
+### Delivery-App2
+🚀 A full-stack application built with Node.js, Express.js, and MongoDB. This app connects buyers, sellers, and dispatchers in a single ecosystem.
+[Project Link](https://github.com/dominic-source/Home_Deliverer/tree/master/express_server)
 
-**OPEN SOURCE CONTRIBUTION**
-> [!IMPORTANT]
-Total number of merged pull requests **15**
+### Delivery-App1
+📦 A backend project built with Python, Flask, and MySQL, designed to connect buyers, sellers, and dispatchers.
+[Project Link](https://github.com/dominic-source/Home_Deliverer/tree/master/flask_server)
 
-> [!IMPORTANT]
-Total number of pull requests merged by me **10**
+### Cats n' Cheese
+🐭 A fun, single-player strategy game where players act as mice stealing cheese from cats. Built with React and Next.js.
+[Play Here](https://cats-n-cheese.vercel.app)
 
-> [!IMPORTANT]
-Total number of open source projects contributed to **1**
+### Handshake
+🤝 A versatile web-based application redefining the job search and classified ad experience. Built with React, Vite, Python, Flask, and SQLAlchemy.
+[Source Code](https://github.com/HandshakeOrg/handshake)
 
-## Skills
+### ProvisionsPall
+🛒 A business application to help business owners connect with clients. Built with jQuery, JavaScript, CSS, HTML, Python, Flask, and SQLAlchemy, and deployed using Nginx, Haproxy, and a live server.
+[Live App](https://provisionspall-hwvs.onrender.com/market)
+[Source Code](https://github.com/dominic-source/ProvisionsPall/tree/master)
+
+### Static Web Application
+🌐 A static web application developed using Next.js, JavaScript, and Node.js.
+[Live App](https://cadatech-portfolio.vercel.app/)
+[Source Code](https://github.com/dominic-source/Cadatech_Portfolio)
+
+### Simple Shell
+💻 A simple shell that runs command line commands almost like a normal shell.
+[Source Code](https://github.com/dominic-source/simple_shell)
+
+### Sorting Algorithms
+🔄 A program showcasing the implementation of various sorting algorithms and their time complexities.
+[Source Code](https://github.com/dominic-source/sorting_algorithms)
+
+## 🔥 Open Source Contribution
+- **Total number of merged pull requests:** 15
+- **Total number of pull requests merged by me:** 10
+- **Total number of open source projects contributed to:** 1
+
+## ⚡ Skills
 
 ### Programming Languages and Frameworks
-- JavaScript (Node.js/Express.js/JQuery/AJAX)
-- TypeScript
-- Python/Flask
-- React.js/Next.js with Material UI
-- HTML5/CSS3/SCSS
-- Bash script
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+- ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 
 ### Web Technologies
-- Git (Version Control)
-- Docker (Containerization)
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 - RESTful API design and implementation
 
-### Testing Technologies 
-- Unittest Testing
-- mocha
-- sinon
-- chai
+### Testing Technologies
+- ![Unittest](https://img.shields.io/badge/-Unittest-239120?logo=python&logoColor=white)
+- ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white)
+- ![Chai](https://img.shields.io/badge/-Chai-A30701?logo=chai&logoColor=white)
+- ![Sinon](https://img.shields.io/badge/-Sinon-252E3A?logo=sinon)
 
-### Web architechtures
-- Haproxy(load balancer)
-- Datadog(monitor)
-- Nginx
+### Web Architectures
+- ![HAProxy](https://img.shields.io/badge/-HAProxy-0000FF?logo=haproxy&logoColor=white)
+- ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?logo=datadog&logoColor=white)
+- ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
 - SSL
 
 ### Databases
-- SQL (MySQL)
-- SQLAlchemy
-- MongoDB
-- Redis
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+- ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-1F274E?logo=python&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+- ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
 ### Data Structures
 - Binary Trees
@@ -71,20 +90,19 @@ Total number of open source projects contributed to **1**
 - Queues
 - Hash Tables
 
-### Some Algorithms
-- Binary search
-- Jump search
-- Linear search
-- Jump link search
-- Exponential search
-- Merge sort
-- Heap sort
-- count sort
-- Binary sort
-- Shell sort
+### Algorithms
+- Binary Search
+- Jump Search
+- Linear Search
+- Exponential Search
+- Merge Sort
+- Heap Sort
+- Count Sort
+- Shell Sort
 
-## How to Reach Me
-
+## 📫 How to Reach Me
 If you're interested in collaborating on exciting projects or discussing job opportunities, feel free to reach out via [email](mailto:chinonsodomnic@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/chinonsomorba).
 
 I'm eager to contribute my skills and passion to innovative software engineering projects. Let's build something amazing together!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dominic-source&show_icons=true&theme=radical)
